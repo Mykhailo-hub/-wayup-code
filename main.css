@@ -1,0 +1,55 @@
+h1 {color: red;}
+#block {background: blue; color: #fff; width:100px; }
+.new span {color: red;}
+h2{background: green; color: #fff;}
+h2.new{background: green; color: #fff;padding:50px;}
+h2{background: green; color: #fff;}
+
+.list .block {border:solid black;border:solid black;margin-top:20px;} 
+li {border:solid black;}
+
+.block {margin-top:100px;}
+body font-family: 'Open Sans', sans-serif;
+.contauner {width: 1174px;
+margin: 0 auto;}
+.header {
+background: rgba(78,192,254,1);
+background: -moz-linear-gradient(-45deg, rgba(78,192,254,1) 0%, rgba(55,144,217,1) 100%);
+background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(78,192,254,1)), color-stop(100%, rgba(55,144,217,1)));
+background: -webkit-linear-gradient(-45deg, rgba(78,192,254,1) 0%, rgba(55,144,217,1) 100%);
+background: -o-linear-gradient(-45deg, rgba(78,192,254,1) 0%, rgba(55,144,217,1) 100%);
+background: -ms-linear-gradient(-45deg, rgba(78,192,254,1) 0%, rgba(55,144,217,1) 100%);
+background: linear-gradient(135deg, rgba(78,192,254,1) 0%, rgba(55,144,217,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4ec0fe', endColorstr='#3790d9', GradientType=1 );
+color:#fff; padding-bottom: 231px;}
+.wrapper{display flex; justify-content: space-between;}
+
+.offer {margin-top: 153; width: 509px;}
+title
+.intro {margin-bottom: 45px; margin-top: 30px;}
+p {line-height: 1.6em;}
+
+.btn{background:#e0f219 
+color:#fff;
+display: block;
+width: 233px;
+padding: 57px;
+text-align: center;
+text-decoration: none; 
+transition: all 0.5s ease;}
+.btn:hover{background: #b8c710;}
+.desktop{margin-top: 54px;}
+.section-title{font-size: 30px;}
+.learn {padding-top: 102px; padding-bottom: 116px;}
+.skills {display: flex; justify-content: space-between; margin-top: 75px;}
+
+.skill-title {font-size: 19px;}
+
+.skill-text {margin-top: 10px;}
+.skill-free{width: 291px; background: url('../img/icon1.jpg') no-repead; padding-left:100px;
+.skill-change{background: url('../img/icon2.jpg');}
+.mail{background:#ddedf1; padding-top:102px; padding-bottom: 105px;}
+.input{width: 342px; border:1px solid #bbbbbb; height: 46px; padding-left: 25px;}
+.btn-form {border: 0; cursor: pointer; margin-bottom: 13px;}
+.credits{color #fff; font-size: 9px;}
+.footer{padding: 64px 0; background:#164d7a;}
