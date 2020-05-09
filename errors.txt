@@ -1,2 +1,0 @@
-[2020-05-05 09:03:46] layer "desktop.png": Duplicate path: desktop.png
-[2020-05-05 09:15:48] layer "desktop.png": Duplicate path: desktop.png
